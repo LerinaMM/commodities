@@ -15,13 +15,11 @@ Os dados foram coletadas a partir da fonte: https://www.investing.com/commoditie
 
 | Column     | Description              |
 |------------|--------------------------|
-| `Ano` | Ano referente as importações - nesse conjunto de dados os dados são relativos ao ano de 2020 |
-| `mês` | mês que foram efetivadas as exportações. |
-| `Pais_importador` | Pais que foi realizada a importação. |
-| `Produto` | Categoria de produtos, confome classificação do dataset. |
-| `UF_importadora` | Estado que realizou a importação. |
-| `custo_importacao` | Custo de importação do item.Preço de abertura da negociação. |
-| `Via` | Fornece a informação da Via na qual o item exportado foi enviado ao Brasil. |
+| `Date` | Data do dia da negociação da ação |
+| `Open` | Preço de abertura da negociação. |
+| `High` | Maior preço da ação naquele dia. |
+| `Low` | Menor preço da ação naquele dia. |
+| `Volume` | Quantidade de ações comercializadas naquele dia. |
 
 # 📷 Dashboard
 ![image](https://github.com/LerinaMM/commodities/assets/83770121/8fd08733-b4a3-4a88-9a51-7b55d8bef50b)
