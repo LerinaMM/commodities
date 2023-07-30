@@ -24,6 +24,9 @@ Os dados foram coletadas a partir da fonte: https://www.investing.com/commoditie
 | `Via` | Fornece a informação da Via na qual o item exportado foi enviado ao Brasil. |
 
 # 📷 Dashboard
+![image](https://github.com/LerinaMM/commodities/assets/83770121/8fd08733-b4a3-4a88-9a51-7b55d8bef50b)
+![image](https://github.com/LerinaMM/commodities/assets/83770121/c8a362e8-8d5e-4ab5-8db6-f9e9c3f210da)
 
-![image](https://github.com/LerinaMM/commodities/assets/83770121/74209e7f-72e3-4825-badb-e83bbb4048c6)
+
+
 
