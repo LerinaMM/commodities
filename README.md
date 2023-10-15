@@ -7,13 +7,13 @@ Analise de Commodities referente ao período de 2004 a 2022. Essa análise foi r
 
 Bem-vindo ao repositório de análise de dados de commodities! Este projeto tem como objetivo fornecer uma visão abrangente e aprofundada sobre o mercado de commodities, explorando e interpretando conjuntos de dados relevantes. As commodities desempenham um papel vital em nossa economia global, abrangendo uma ampla gama de produtos, desde petróleo e gás natural até metais preciosos, alimentos e muito mais. Neste repositório, você encontrará uma análises detalhadas, visualizações informativas e insights valiosos para entender os padrões de preços, tendências sazonais, influências geopolíticas e outros fatores que afetam essas commodities.
 
-# Objetivo 
+# 🎯✍️ Objetivo 
 
 Tivemos como objetivo na analisar 4 importantes commodities: Petroleo, Trigo, Gás Natural os seguintes itens:
 
-- Comportamento temporal das commodities
+- Comportamento temporal do valor da ação das commoditie
 - Analise se as mesmas possuem correlacoes uma com a outra
-- 
+- Volume de negociações
 
 # 🌐 Fonte
 
@@ -33,7 +33,9 @@ Os dados foram coletadas a partir da fonte: https://www.investing.com/commoditie
 ![image](https://github.com/LerinaMM/commodities/assets/83770121/8fd08733-b4a3-4a88-9a51-7b55d8bef50b)
 ![image](https://github.com/LerinaMM/commodities/assets/83770121/c8a362e8-8d5e-4ab5-8db6-f9e9c3f210da)
 
-# Proximos passos
+# ✍️ Proximos passos
+
+Vamos analisar posteriormente o comportamento do preço do Petróleo Brent que mostrou que os valores de preços chegam a patamares mínimos no intervalo a cada 5 anos. Portanto vamos elaborar um modelo preditivo para verificar se o comportamento persiste.
 
 
 
